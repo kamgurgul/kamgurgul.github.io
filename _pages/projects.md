@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Personal Projects"
+title: "Projects"
 ---
 
 * CPU Info
