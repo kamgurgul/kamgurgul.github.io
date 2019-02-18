@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Kamil Gurgul"
-  avatar           : https://avatars2.githubusercontent.com/u/6876371?s=400&u=c463b70e9cd0e1b0feb6de77cee4f60304e6d585&v=4 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://avatars2.githubusercontent.com/u/6876371?s=460&v=4 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Android Developer"
   location         : "Poland"
   email            :
