@@ -1,7 +1,7 @@
 ---
-title: Magic of Android "saved state"
-excerpt: "Where and how Android handles the process of storing application state"
+title: Test
+excerpt: "Test"
 tags: [android, internals]
 ---
 
-# "onSavedInstanceState"
+# Test
