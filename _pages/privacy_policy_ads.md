@@ -3,8 +3,7 @@ permalink: /privacy_policy_ads/
 title: "Privacy Policy"
 ---
 
-##
-# Privacy Policy
+### Privacy Policy
 
 KG Soft built the CPU Info app as an Ad Supported app. This SERVICE is provided by KG Soft at no cost and is intended for use as is.
 
