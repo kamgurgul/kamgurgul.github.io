@@ -18,14 +18,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Android Blog"
 title_separator          : "-"
-<<<<<<< HEAD
 name                     : "Kamil Gurgul"
 description              : "Android tech blog"
-=======
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
->>>>>>> 8a67ce8e41ec850f2d7c373aa47739b2abfee6f1
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kamgurgul # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,17 +103,10 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "Kamil Gurgul"
   avatar           : https://avatars2.githubusercontent.com/u/6876371?s=460&v=4 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Android Developer"
   location         : "Poland"
-=======
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
->>>>>>> 8a67ce8e41ec850f2d7c373aa47739b2abfee6f1
   email            :
   links:
     - label: "Email"
