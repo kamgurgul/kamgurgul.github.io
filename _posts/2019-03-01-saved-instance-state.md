@@ -4,8 +4,6 @@ excerpt: "Managing app state effectively is key to building robust Android appli
 tags: [android, internals]
 ---
 
-# Understanding Android SavedState and SavedStateHandle
-
 Building robust Android applications often requires careful handling of app states, especially when the lifecycle of activities or fragments comes into play. The Android platform offers several tools to manage state across configuration changes or process death, with two of the most common being `SavedState` and `SavedStateHandle`. In this blog post, we’ll take a closer look at these two concepts, explaining how they work and when you should use them.
 
 ## What is SavedState?
