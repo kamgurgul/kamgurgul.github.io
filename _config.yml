@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Android Blog"
+title                    : "Personal blog"
 title_separator          : "-"
 name                     : "Kamil Gurgul"
-description              : "Android tech blog"
+description              : "Blog about technologies related to Kotlin and mobile"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kamgurgul # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
