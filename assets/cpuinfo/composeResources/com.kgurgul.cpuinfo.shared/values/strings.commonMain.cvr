@@ -4,10 +4,14 @@ string|absolute_width|QWJzb2x1dGUgV2lkdGg=
 string|action_not_supported|QWN0aW9uIG5vdCBhdmFpbGFibGU=
 string|amount|QW1vdW50
 string|android_id|QW5kcm9pZCBJRA==
+string|app_name|Q1BVLUluZm8=
 string|app_open|Q2Fubm90IG9wZW4gdGhpcyBhcHBsaWNhdGlvbg==
 string|applications|QXBwbGljYXRpb25z
+string|apps_open|T3Blbg==
+string|apps_settings|U2V0dGluZ3M=
 string|apps_show_system_apps|U2hvdyBzeXN0ZW0gYXBwcw==
 string|apps_sort_order|U29ydCBvcmRlcg==
+string|apps_uninstall|VW5pbnN0YWxs
 string|available_memory|QXZhaWxhYmxlIG1lbW9yeQ==
 string|back|QmFjaw==
 string|battery_charging|Q2hhcmdpbmc=
@@ -86,6 +90,7 @@ string|hardware_uuid|VVVJRA==
 string|hardware|SGFyZHdhcmU=
 string|height|SGVpZ2h0
 string|id|SUQ=
+string|information|SW5mb3JtYXRpb24=
 string|internal|SW50ZXJuYWw=
 string|ir_emitter|SVIgRW1pdHRlcg==
 string|is_charging|SXMgY2hhcmdpbmc=
@@ -93,7 +98,13 @@ string|kelvin|wrBL
 string|kernel|S2VybmVs
 string|large|TGFyZ2U=
 string|level|TGV2ZWw=
+string|licenses_module_license|TGljZW5zZTo=
+string|licenses_module_name|TW9kdWxlIG5hbWU6
+string|licenses_module_version|TW9kdWxlIHZlcnNpb246
+string|licenses_webpage|V2VicGFnZQ==
+string|licenses|TGljZW5zZXM=
 string|manufacturer|TWFudWZhY3R1cmVy
+string|menu|TWVudQ==
 string|metal_version|TWV0YWwgVmVyc2lvbg==
 string|model|TW9kZWw=
 string|native_libs|TmF0aXZlIGxpYnM=
@@ -124,8 +135,11 @@ string|pref_theme_default|U3lzdGVtIGRlZmF1bHQ=
 string|pref_theme_light|TGlnaHQ=
 string|pref_theme|VGhlbWU=
 string|processes|UHJvY2Vzc2Vz
+string|ram_physical_memory_info|Q2FwYWNpdHk6ICUxJHMKQ2xvY2sgc3BlZWQ6ICUyJGQKTWFudWZhY3R1cmVyOiAlMyRzCk1lbW9yeSB0eXBlOiAlNCRzClBhcnQgbnVtYmVyOiAlNSRzClNlcmlhbCBudW1iZXI6ICU2JHM=
+string|ram_physical_memory|UGh5c2ljYWwgbWVtb3J5
 string|ram|UkFN
 string|refresh_rate|UmVmcmVzaCByYXRl
+string|refresh|UmVmcmVzaA==
 string|renderer|UmVuZGVyZXI=
 string|rooted|Um9vdGVk
 string|running_gc|UnVubmluZyBHYXJiYWdlIENvbGxlY3Rvcg==
@@ -135,6 +149,7 @@ string|screen_brightness|U2NyZWVuIGJyaWdodG5lc3M=
 string|screen_calibrated_latency|Q2FsaWJyYXRlZCBsYXRlbmN5
 string|screen_class|U2NyZWVuIGNsYXNz
 string|screen_color_depth|Q29sb3IgZGVwdGg=
+string|screen_density_dpi|RGVuc2l0eSBEUEk=
 string|screen_inner_height|SW5uZXIgaGVpZ2h0
 string|screen_inner_width|SW5uZXIgd2lkdGg=
 string|screen_max_fps|TWF4IEZQUw==
@@ -142,6 +157,9 @@ string|screen_pixel_depth|UGl4ZWwgZGVwdGg=
 string|screen_scale|U2NyZWVuIHNjYWxl
 string|screen|U2NyZWVu
 string|sdk|U0RL
+string|search_clear|Q2xlYXI=
+string|search_close|Q2xvc2U=
+string|search|U2VhcmNo
 string|security_providers|U2VjdXJpdHkgcHJvdmlkZXJz
 string|sensors_acceleration|QWNjZWxlcmF0aW9u
 string|sensors_accelerometer|QWNjZWxlcm9tZXRlcg==
@@ -154,6 +172,8 @@ string|sensors_magnetic_field|TWFnbmV0aWMgZmllbGQ=
 string|sensors_rotation_rate|Um90YXRpb24gcmF0ZQ==
 string|sensors|U2Vuc29ycw==
 string|serial|U2VyaWFs
+string|settings_about|QWJvdXQ=
+string|settings_others|T3RoZXJz
 string|settings|U2V0dGluZ3M=
 string|small|U21hbGw=
 string|sound_card|U291bmQgY2FyZA==
