@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "B6LJ2PS259.com.kgurgul.cpuinfo" ],
+             "components": [
+               {
+                  "/": "/assets/cpuinfo/*",
+                  "comment": "CPU-Info app redirect"
+               }
+             ]
+           }
+       ]
+   }
+}
